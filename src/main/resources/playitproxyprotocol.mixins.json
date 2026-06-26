@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.dany.playitproxyprotocol.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerConnectionListenerMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

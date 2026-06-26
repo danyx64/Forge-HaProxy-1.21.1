@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: playitproxyprotocol
+Specification-Vendor: Dany
+Specification-Version: 1
+Implementation-Title: PlayitProxyProtocol
+Implementation-Version: 1.0.0
+Implementation-Vendor: Dany
+MixinConfigs: playitproxyprotocol.mixins.json
+
